@@ -60,3 +60,5 @@
   const total = arr.reduce((acc, num) => (acc + num), 0); // > 15
   const total = arr.reduce((acc, num) => (acc + num), 10); // > 25 // 10 is start number
   ```
+
+### API: https://randomuser.me/
